@@ -74,7 +74,7 @@ hr{border:none; border-top:1px solid var(--border); margin:34px 0;}
 <body>
 <header class="top">
   <h1>Конспект уроку: SUMIFS, IFS, XLOOKUP, зведені таблиці й зрізи</h1>
-  <p>10 клас · теоретичний урок без комп'ютерів · 1 год 20 хв</p>
+  <p>11 клас · теоретичний урок без комп'ютерів · 1 год 20 хв</p>
   <nav class="chips">
     <a href="#hod">Хід уроку</a><a href="#umovni">Умовні функції</a><a href="#xl">XLOOKUP</a>
     <a href="#masyvy">UNIQUE·SORT·FILTER</a><a href="#query">QUERY</a><a href="#zvedeni">Зведені</a>
